@@ -3,6 +3,10 @@
 '''
 
 
+
+YXB
+
+
 第一步: 安装
 打开 Windows 的cmd , 输入指令:
 pip install Django==3.0.3 -i https://pypi.tuna.tsinghua.edu.cn/simple
